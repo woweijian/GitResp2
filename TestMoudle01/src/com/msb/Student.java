@@ -8,4 +8,5 @@ package com.msb;
  */
 public class Student {
     int n;
+    int m;
 }
