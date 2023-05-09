@@ -7,4 +7,5 @@ package com.msb;
  * @version: 1.8.0
  */
 public class Person {
+    int age;
 }
